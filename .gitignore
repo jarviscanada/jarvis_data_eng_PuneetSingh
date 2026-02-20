@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Jupyter runtime/user dirs (created by containers)
+.local/
+**/.local/
+.jupyter/
+**/.jupyter/
+.ipython/
+**/.ipython/
+.npm/
+**/.npm/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

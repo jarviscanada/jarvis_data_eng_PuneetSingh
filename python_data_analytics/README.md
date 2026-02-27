@@ -31,7 +31,7 @@ This project turns raw retail transactions into a structured analytics dataset a
 4. **Business Users (Marketing / Growth Team)**  
    Use segmentation outputs to run campaigns and measure results.
 
-> Architecture diagram (optional): `./assets/architecture.png`
+> [![Project Architecture](./assets/architecture.png)](./assets/architecture.png)
 
 ---
 
@@ -99,3 +99,4 @@ If this project were extended, the next steps would be:
 - Notebook with analysis and visual outputs
 
 ---
+

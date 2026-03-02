@@ -44,7 +44,7 @@ The notebook contains the full workflow including:
 - RFM scoring + segmentation
 - summary visuals and insights
 
-**Notebook:** `./retail_data_analytics_wrangling.ipynb`
+**Notebook:** [retail_data_analytics_wrangling.ipynb](./Notebook/retail_data_analytics_wrangling.ipynb)
 
 ---
 
@@ -99,4 +99,5 @@ If this project were extended, the next steps would be:
 - Notebook with analysis and visual outputs
 
 ---
+
 
